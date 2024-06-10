@@ -1,9 +1,10 @@
 header {
-    background-color: darkslateblue;
-    font-style: italic;
-    
+    background-color: rgb(53, 52, 119);
+    font-style:italic;
+    display: flex;
 }
 .cabecalho-imagem{
-    width:20% ;
-    margin:0 200px;
+    width:5% ;
+    margin:0 20px;
 }
+
